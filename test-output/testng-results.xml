@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="32" passed="32" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-27T11:49:19 IST" name="Default suite" finished-at="2025-01-27T11:50:45 IST" duration-ms="86463">
+    <groups>
+    </groups>
+    <test started-at="2025-01-27T11:49:19 IST" name="Default test" finished-at="2025-01-27T11:50:45 IST" duration-ms="86463">
+      <class name="AutomatedTesting.CapstoneProject">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:19 IST" name="SetUp" finished-at="2025-01-27T11:49:27 IST" duration-ms="8136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TitleVerification()[pri:1, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:27 IST" name="TitleVerification" finished-at="2025-01-27T11:49:27 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleVerification -->
+        <test-method signature="NavigationMenuVerification()[pri:2, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:27 IST" name="NavigationMenuVerification" finished-at="2025-01-27T11:49:27 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigationMenuVerification -->
+        <test-method signature="HealthProgramsDropDownVerification()[pri:3, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:27 IST" name="HealthProgramsDropDownVerification" finished-at="2025-01-27T11:49:27 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthProgramsDropDownVerification -->
+        <test-method signature="ServicesDropDownVerification()[pri:4, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:27 IST" name="ServicesDropDownVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ServicesDropDownVerification -->
+        <test-method signature="CprDropDownVerification()[pri:5, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="CprDropDownVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CprDropDownVerification -->
+        <test-method signature="AboutDropDownVerification()[pri:6, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="AboutDropDownVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutDropDownVerification -->
+        <test-method signature="AboutTextVerification()[pri:7, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="AboutTextVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutTextVerification -->
+        <test-method signature="AboutUsLinkVerification()[pri:8, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="AboutUsLinkVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutUsLinkVerification -->
+        <test-method signature="ContactUsLinkVerification()[pri:9, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="ContactUsLinkVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUsLinkVerification -->
+        <test-method signature="FacebookLinkVerification()[pri:10, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="FacebookLinkVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookLinkVerification -->
+        <test-method signature="QuitTobbaccoLinkVerification()[pri:11, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="QuitTobbaccoLinkVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitTobbaccoLinkVerification -->
+        <test-method signature="HealthyAgingLinkVerification()[pri:12, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="HealthyAgingLinkVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthyAgingLinkVerification -->
+        <test-method signature="HealthInsuranceLinkVerification()[pri:13, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="HealthInsuranceLinkVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthInsuranceLinkVerification -->
+        <test-method signature="AhecScholarsLinkVerification()[pri:14, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="AhecScholarsLinkVerification" finished-at="2025-01-27T11:49:28 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AhecScholarsLinkVerification -->
+        <test-method signature="SearchBarFuntionality()[pri:15, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:28 IST" name="SearchBarFuntionality" finished-at="2025-01-27T11:49:30 IST" duration-ms="2027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBarFuntionality -->
+        <test-method signature="HealthProgramsFunctionality1()[pri:16, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:30 IST" name="HealthProgramsFunctionality1" finished-at="2025-01-27T11:49:31 IST" duration-ms="1038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthProgramsFunctionality1 -->
+        <test-method signature="HealthProgramsFunctionality2()[pri:17, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:31 IST" name="HealthProgramsFunctionality2" finished-at="2025-01-27T11:49:32 IST" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthProgramsFunctionality2 -->
+        <test-method signature="HealthProgramsFunctionality3()[pri:18, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:32 IST" name="HealthProgramsFunctionality3" finished-at="2025-01-27T11:49:35 IST" duration-ms="2915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthProgramsFunctionality3 -->
+        <test-method signature="HealthProgramsFunctionality4()[pri:19, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:35 IST" name="HealthProgramsFunctionality4" finished-at="2025-01-27T11:49:36 IST" duration-ms="1035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthProgramsFunctionality4 -->
+        <test-method signature="HealthProgramsFunctionality()[pri:20, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:36 IST" name="HealthProgramsFunctionality" finished-at="2025-01-27T11:49:40 IST" duration-ms="4227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthProgramsFunctionality -->
+        <test-method signature="ServicesFunctionality()[pri:21, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:40 IST" name="ServicesFunctionality" finished-at="2025-01-27T11:49:44 IST" duration-ms="3499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ServicesFunctionality -->
+        <test-method signature="AboutFunctionality()[pri:22, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:44 IST" name="AboutFunctionality" finished-at="2025-01-27T11:49:49 IST" duration-ms="5414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutFunctionality -->
+        <test-method signature="HealthPrograms_TobaccoContent_Verification()[pri:23, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:49 IST" name="HealthPrograms_TobaccoContent_Verification" finished-at="2025-01-27T11:49:51 IST" duration-ms="1922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthPrograms_TobaccoContent_Verification -->
+        <test-method signature="HealthPrograms_AHECSCHOLARS_Verification()[pri:24, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:51 IST" name="HealthPrograms_AHECSCHOLARS_Verification" finished-at="2025-01-27T11:49:54 IST" duration-ms="2710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthPrograms_AHECSCHOLARS_Verification -->
+        <test-method signature="HealthPrograms_HealthyAging_Verification()[pri:25, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:54 IST" name="HealthPrograms_HealthyAging_Verification" finished-at="2025-01-27T11:49:56 IST" duration-ms="2383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthPrograms_HealthyAging_Verification -->
+        <test-method signature="HealthPrograms_CoveringFlorida_Verification()[pri:26, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:49:56 IST" name="HealthPrograms_CoveringFlorida_Verification" finished-at="2025-01-27T11:50:01 IST" duration-ms="5250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthPrograms_CoveringFlorida_Verification -->
+        <test-method signature="Services_CommunityBased_Verification()[pri:27, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:50:01 IST" name="Services_CommunityBased_Verification" finished-at="2025-01-27T11:50:03 IST" duration-ms="1308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Services_CommunityBased_Verification -->
+        <test-method signature="Services_ContinuingEducationServices_Verification()[pri:28, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:50:03 IST" name="Services_ContinuingEducationServices_Verification" finished-at="2025-01-27T11:50:04 IST" duration-ms="1371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Services_ContinuingEducationServices_Verification -->
+        <test-method signature="UserRegistration()[pri:29, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:50:04 IST" name="UserRegistration" finished-at="2025-01-27T11:50:10 IST" duration-ms="5382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserRegistration -->
+        <test-method signature="UserLogin()[pri:30, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:50:10 IST" name="UserLogin" finished-at="2025-01-27T11:50:22 IST" duration-ms="11993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogin -->
+        <test-method signature="HealthAgingRegister()[pri:31, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:50:22 IST" name="HealthAgingRegister" finished-at="2025-01-27T11:50:39 IST" duration-ms="17260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthAgingRegister -->
+        <test-method signature="tobaccoVerification()[pri:32, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:50:39 IST" name="tobaccoVerification" finished-at="2025-01-27T11:50:42 IST" duration-ms="3379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tobaccoVerification -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AutomatedTesting.CapstoneProject@7f3b84b8]" started-at="2025-01-27T11:50:42 IST" name="tearDown" finished-at="2025-01-27T11:50:45 IST" duration-ms="3325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AutomatedTesting.CapstoneProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

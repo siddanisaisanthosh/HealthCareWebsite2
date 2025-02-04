@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="AutomatedTesting.CapstoneProject">
+        <methods>
+          <include name="AboutTextVerification"/>
+          <include name="NavigationMenuVerification"/>
+          <include name="HealthPrograms_HealthyAging_Verification"/>
+          <include name="ServicesDropDownVerification"/>
+          <include name="Services_ContinuingEducationServices_Verification"/>
+          <include name="HealthProgramsFunctionality"/>
+          <include name="ServicesFunctionality"/>
+          <include name="tobaccoVerification"/>
+          <include name="HealthAgingRegister"/>
+          <include name="UserLogin"/>
+          <include name="QuitTobbaccoLinkVerification"/>
+          <include name="HealthPrograms_CoveringFlorida_Verification"/>
+          <include name="HealthyAgingLinkVerification"/>
+          <include name="SearchBarFuntionality"/>
+          <include name="HealthPrograms_TobaccoContent_Verification"/>
+          <include name="CprDropDownVerification"/>
+          <include name="FacebookLinkVerification"/>
+          <include name="ContactUsLinkVerification"/>
+          <include name="HealthInsuranceLinkVerification"/>
+          <include name="SetUp"/>
+          <include name="AboutUsLinkVerification"/>
+          <include name="TitleVerification"/>
+          <include name="HealthPrograms_AHECSCHOLARS_Verification"/>
+          <include name="Services_CommunityBased_Verification"/>
+          <include name="HealthProgramsFunctionality2"/>
+          <include name="UserRegistration"/>
+          <include name="AboutDropDownVerification"/>
+          <include name="AboutFunctionality"/>
+          <include name="HealthProgramsDropDownVerification"/>
+          <include name="HealthProgramsFunctionality1"/>
+          <include name="HealthProgramsFunctionality4"/>
+          <include name="tearDown"/>
+          <include name="HealthProgramsFunctionality3"/>
+          <include name="AhecScholarsLinkVerification"/>
+        </methods>
+      </class> <!-- AutomatedTesting.CapstoneProject -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
